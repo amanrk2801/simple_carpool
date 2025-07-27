@@ -1,6 +1,6 @@
 # Carpooling Web App
 
-A simple, clean, and interview-ready carpooling web application built with React frontend, Spring Boot backend, and MySQL database.
+Carpooling web application built with React frontend, Spring Boot backend, and MySQL database.
 
 ## Features
 
@@ -144,4 +144,4 @@ cd backend && mvn clean package
 
 ## License
 
-This project is created for educational and interview purposes.
+This project is created for CDAC batch Feb-2025. All rights reserved
