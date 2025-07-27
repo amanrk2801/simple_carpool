@@ -143,5 +143,3 @@ cd backend && mvn clean package
 4. Deploy the JAR file and serve the frontend build files
 
 ## License
-
-This project is created for CDAC batch Feb-2025. All rights reserved
